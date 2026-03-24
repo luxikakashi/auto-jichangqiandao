@@ -1,4 +1,5 @@
-
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 name: 机场自动签到
 
 on:
